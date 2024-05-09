@@ -1,7 +1,7 @@
-[![MasterHead](https://images.unsplash.com/photo-1601388352547-2802c6f32eb8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHdpZGV8ZW58MHx8MHx8fDA%3D)](http://localhost:3000/)
+[![MasterHead](https://images.unsplash.com/photo-1591051270770-b268b0189078?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmxhY2slMjBjb21wdXRlcnxlbnwwfDB8MHx8fDA%3D)](http://localhost:3000/)
 <h1 align="center">Hi 👋, I'm Ankit Maurya</h1>
 <h3 align="center">Full stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1611275484845-52a71f2b0a6a?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="500">
+<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cHJvY2Vzc29yJTIwc3F1YXJlJTIwaW1hZ2V8ZW58MHwwfDB8fHww">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit000000&label=Profile%20views&color=0e75b6&style=flat" alt="ankit000000" /> </p>
